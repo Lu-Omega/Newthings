@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/disco-dba865f1.png");
+}
+#bodyHeader{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.list{
+    border-radius: 20px;
+    margin-right: 50%;
+    background-color:mediumslateblue;
+}
